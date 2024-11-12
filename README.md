@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/almoratalla" target="blank"><img src="https://img.shields.io/twitter/follow/almoratalla?logo=twitter&style=for-the-badge" alt="almoratalla" /></a> </p>
 
-- 🔭 I’m currently working on [Ccphean](https://github.com/almoratalla/Ccphean)
+- 🔭 I’m currently working on [TALLYA](https://github.com/almoratalla/UsherTally)
 
 - 🌱 I’m currently learning **ASP.Net and Angular**
 
